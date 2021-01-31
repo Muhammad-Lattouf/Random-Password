@@ -18,3 +18,13 @@ A:\برمجة\تطبيقات windows\Passowrd_Random_txt_1\obj\Debug\Random_txt_
 A:\برمجة\تطبيقات windows\Passowrd_Random_txt_1\obj\Debug\Random_txt_1.csproj.CoreCompileInputs.cache
 A:\برمجة\تطبيقات windows\Passowrd_Random_txt_1\obj\Debug\Random_txt_1.exe
 A:\برمجة\تطبيقات windows\Passowrd_Random_txt_1\obj\Debug\Random_txt_1.pdb
+A:\Programing\windows\Passowrd_Random_txt_1\bin\Debug\Random_txt_1.exe.config
+A:\Programing\windows\Passowrd_Random_txt_1\bin\Debug\Random_txt_1.exe
+A:\Programing\windows\Passowrd_Random_txt_1\bin\Debug\Random_txt_1.pdb
+A:\Programing\windows\Passowrd_Random_txt_1\obj\Debug\Random_txt_1.csprojAssemblyReference.cache
+A:\Programing\windows\Passowrd_Random_txt_1\obj\Debug\Random_txt_1.Form1.resources
+A:\Programing\windows\Passowrd_Random_txt_1\obj\Debug\Random_txt_1.Properties.Resources.resources
+A:\Programing\windows\Passowrd_Random_txt_1\obj\Debug\Random_txt_1.csproj.GenerateResource.cache
+A:\Programing\windows\Passowrd_Random_txt_1\obj\Debug\Random_txt_1.csproj.CoreCompileInputs.cache
+A:\Programing\windows\Passowrd_Random_txt_1\obj\Debug\Random_txt_1.exe
+A:\Programing\windows\Passowrd_Random_txt_1\obj\Debug\Random_txt_1.pdb

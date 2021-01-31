@@ -14,7 +14,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Random_txt_1
+namespace Random_Password
 {
     public partial class Form1 : Form
     {
